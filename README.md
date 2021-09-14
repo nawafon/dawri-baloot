@@ -1,6 +1,6 @@
 # dwri_baloot
 
-A baloot calculator app. for a very popular card game in saudi arabia.
+A baloot calculator app. for a very popular card game in saudi arabia. حاسبة بالوت بكل بساطة 
 
 ![WhatsApp Image 2021-09-14 at 4 52 44 PM](https://user-images.githubusercontent.com/66402623/133270355-47c82e9c-2674-4948-83e5-b9bfa277c632.jpeg)
 
